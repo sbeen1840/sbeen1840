@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=sbeen&fontSize=45&animation=fadaIn)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbeen1840&count_bg=%23FF0071&title_bg=%230A00FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![PY](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=yellow)]()
