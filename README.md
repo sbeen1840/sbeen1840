@@ -1,23 +1,34 @@
-### Hi there 👋
 
-<!--
-**sbeen1840/sbeen1840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center">
 
-Here are some ideas to get you started:
+<br/>
+<h3>Sbeen's Git 🥳</h3><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm Ji Soo-been.<br/>
+
+My goal is to give good influence to society.<br/>
+I hope you have a lovely day🥰
+<br/><br/>
+
+[![sbeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbeen1840)](https://github.com/sbeen1840/github-readme-stats)
+
+<h3>💻 Tech Stack 💻</h3>
+ 
+<br/>
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=sbeen&fontSize=45&animation=fadaIn)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbeen1840&count_bg=%23FF0071&title_bg=%230A00FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![PY](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=yellow)]()
+
+</div>
+
+<br/>
+
+
+
